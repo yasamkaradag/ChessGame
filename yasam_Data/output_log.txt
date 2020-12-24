@@ -1,29 +1,4516 @@
 Initialize engine version: 5.6.7f1 (e80cc3114ac1)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
-    Vendor:   Intel
-    VRAM:     2111 MB
-    Driver:   26.20.100.8141
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   23.21.13.9135
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.017 seconds
-Platform assembly: C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\7944\Documents\yasamTest\cagri_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yasamkaradag\Desktop\chinook\yasamTest_24\yasam_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.125200 ms
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 13.961600 ms
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+Log Output6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tahta Boyutu : 3x3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log Output8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tahta Boyutu : 6x6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log Output4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tahta Boyutu : 8x8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log Output5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tahta Boyutu : 4x4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log Output6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tahta Boyutu : 5x5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'blokPrefab') is missing!
+ 
+(Filename:  Line: 1744)
+
+At yerlestirildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hedef secildi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+distance is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+En kisa yol bulunuyor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+blokPrefab(Clone) (UnityEngine.BoxCollider2D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 At yerlestirildi
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -704,11 +5191,283 @@ disari cikti
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disari cikti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Hedef secildi
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-distance is 2
+distance is 4
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -720,8 +5479,6 @@ blokPrefab(Clone) (UnityEngine.BoxCollider2D)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3f0c -> priority: 1 
-  Thread -> id: 1c54 -> priority: 1 
-  Thread -> id: 838 -> priority: 1 
-  Thread -> id: 3f84 -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33b0 -> priority: 1 
+  Thread -> id: 20d4 -> priority: 1 
